@@ -1,16 +1,57 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mehul-27/mehul-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+██╗  ██╗███████╗██╗     ██╗      ██████╗
+██║  ██║██╔════╝██║     ██║     ██╔═══██╗
+███████║█████╗  ██║     ██║     ██║   ██║
+██╔══██║██╔══╝  ██║     ██║     ██║   ██║
+██║  ██║███████╗███████╗███████╗╚██████╔╝
+╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝
 
-Here are some ideas to get you started:
+                         mehul dubey
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+```text
+──────────────────────────────────────────────────────────────────────────────
+
+C:\Users\visitor> hello
+
+mehul
+computer science student
+
+currently building things i actually want to use.
+
+──────────────────────────────────────────────────────────────────────────────
+
+focus
+
+    ai
+    full stack
+    sim racing
+    3d printing
+
+projects
+
+    pitwall
+    f1 race analysis
+    inventory management system
+    brain mri detection
+
+links
+
+    github      github.com/mehul-27
+    linkedin    linkedin.com/in/mehuldubey27
+    portfolio   coming soon
+
+──────────────────────────────────────────────────────────────────────────────
+
+SESSION STATUS      ACTIVE
+CURRENT LAP         BUILDING
+NEXT PIT STOP       UNKNOWN
+
+"one more lap."
+
+──────────────────────────────────────────────────────────────────────────────
+```
