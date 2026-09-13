@@ -31,19 +31,19 @@ This profile is my little corner of the internet for experiments, rabbit holes, 
 
 ## `// things currently living in my brain`
 
-🧠 **Local LLMs & weights**<br />
+**Local LLMs & weights**<br />
 Downloading suspiciously large files, running models locally, and figuring out what happens when the GPU starts sounding concerned.
 
-🏎️ **Formula 1**<br />
+**Formula 1**<br />
 Race data, strategy, lap times, tyre gambles, and the eternal question: *was that actually a good pit stop?*
 
-🎮 **Games & game-y things**<br />
+**Games & game-y things**<br />
 Playing games, making small ones, breaking mechanics, and occasionally remembering to sleep.
 
-🛠️ **Tiny tools**<br />
+**Tiny tools**<br />
 Small scripts, useful automations, dashboards, experiments, and other things that start with “this should only take an hour.”
 
-🌌 **Random rabbit holes**<br />
+**Random rabbit holes**<br />
 If it involves computers, data, clever shortcuts, or an unnecessarily complicated solution, I’m probably investigating it.
 
 ## `// operating mode`
